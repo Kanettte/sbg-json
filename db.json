@@ -1,0 +1,33 @@
+{
+    "id": "1",
+    "name": "Aeon's end",
+    "yearpublished": "2016",
+    "mecanics": [
+        "Deckbuilding",
+        "Hand management"
+    ],
+    "description": "Machin description",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minPlayingtime": "60",
+    "maxPlayingtime": "120",
+    "minAge": "14+",
+    "weight": "2.81",
+    "alternativenames": [
+        "AE Alter"
+    ],
+    "designers": [
+        "Jenny Iglesias",
+        "Nick Little (I)",
+        "Kevin Riley"
+    ],
+    "artists": [
+        "Gong Studios"
+    ],
+    "publishers": [
+        "Indie Boards & Cards",
+        "Matagot"
+    ],
+    "bggrating": "7.9",
+    "ranking": "76"
+}
