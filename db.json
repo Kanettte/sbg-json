@@ -1,10 +1,11 @@
 {
+  "games": {
     "id": "1",
     "name": "Aeon's end",
     "yearpublished": "2016",
     "mecanics": [
-        "Deckbuilding",
-        "Hand management"
+      "Deckbuilding",
+      "Hand management"
     ],
     "description": "Machin description",
     "minPlayers": "1",
@@ -14,20 +15,21 @@
     "minAge": "14+",
     "weight": "2.81",
     "alternativenames": [
-        "AE Alter"
+      "AE Alter"
     ],
     "designers": [
-        "Jenny Iglesias",
-        "Nick Little (I)",
-        "Kevin Riley"
+      "Jenny Iglesias",
+      "Nick Little (I)",
+      "Kevin Riley"
     ],
     "artists": [
-        "Gong Studios"
+      "Gong Studios"
     ],
     "publishers": [
-        "Indie Boards & Cards",
-        "Matagot"
+      "Indie Boards & Cards",
+      "Matagot"
     ],
     "bggrating": "7.9",
     "ranking": "76"
+  }
 }
