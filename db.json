@@ -10,7 +10,7 @@
           "Deckbuilding",
           "Hand management"
         ],
-        "description": "Machin description",
+        "shortdescription": "Machin description",
         "minPlayers": "1",
         "maxPlayers": "4",
         "minPlayingtime": "60",
@@ -116,7 +116,7 @@
           "Chance",
           "Hand management"
         ],
-        "description": "Machin description",
+        "shortdescription": "Machin description",
         "minPlayers": "1",
         "maxPlayers": "1",
         "minPlayingtime": "30",
