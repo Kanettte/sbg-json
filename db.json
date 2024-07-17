@@ -104,6 +104,109 @@
           "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
         }
       ]
+    },
+    {
+      "id": "2",
+      "info": {
+        "name": "Final Girl",
+        "yearpublished": "2023",
+        "mecanics": [
+          "Chance",
+          "Hand management"
+        ],
+        "description": "Machin description",
+        "minPlayers": "1",
+        "maxPlayers": "1",
+        "minPlayingtime": "30",
+        "maxPlayingtime": "60",
+        "minAge": "14+",
+        "weight": "2.31",
+        "alternativenames": [],
+        "designers": [
+          "Jenny Iglesias",
+          "Nick Little (I)",
+          "Kevin Riley"
+        ],
+        "artists": [
+          "Gong Studios"
+        ],
+        "publishers": [
+          "Indie Boards & Cards",
+          "Matagot"
+        ],
+        "bggrating": "6.9",
+        "ranking": "80"
+      },
+      "videos": [
+        {
+          "id": 1,
+          "author": "Carnet de Jeux",
+          "url": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 2,
+          "author": "Carnet de Jeux",
+          "url": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 3,
+          "author": "Carnet de Jeux",
+          "url": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 4,
+          "author": "Carnet de Jeux",
+          "url": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 5,
+          "author": "Carnet de Jeux",
+          "url": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 6,
+          "author": "Carnet de Jeux",
+          "url": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        }
+      ],
+      "blogs": [
+        {
+          "id": 1,
+          "name": "Carnet de Jeux",
+          "description": "Si Evenfall n'apportera pas à tous le dynamisme, l'immédiateté et la richesse de développement attendus, il reste un jeu magnifique, bien édité et original dans ses mécaniques qui saura...",
+          "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 2,
+          "name": "Carnet de Jeux",
+          "description": "tiens-t-il ses promesses ?",
+          "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 3,
+          "name": "Carnet de Jeux",
+          "description": "tiens-t-il ses promesses ?",
+          "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 4,
+          "name": "Carnet de Jeux",
+          "description": "tiens-t-il ses promesses ?",
+          "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 5,
+          "name": "Carnet de Jeux",
+          "description": "tiens-t-il ses promesses ?",
+          "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        },
+        {
+          "id": 6,
+          "name": "Carnet de Jeux",
+          "description": "tiens-t-il ses promesses ?",
+          "link": "https://www.youtube.com/embed/I17ZQRYtvDU?si=Oojuj6mbgKpS3dZw"
+        }
+      ]
     }
   ]
 }
